@@ -9,7 +9,7 @@ This project explores global demographic trends, focusing on the population size
 * **Power BI:** Data modeling and interactive dashboard design, utilizing geospatial visuals to map global trends.
 
 ## The Dashboard
-![Power BI Dashboard Screenshot]()
+![Power BI Dashboard Screenshot](https://github.com/Ashirz/Global-Demographic-Growth-Trends-Analysis/blob/main/Screenshot%202026-04-02%20103240.png)
 
 ## Key Features & Visuals
 * **Geospatial Mapping:** A world map visual plotting population sizes to instantly identify high-density regions.
